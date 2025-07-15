@@ -44,6 +44,37 @@ A RESTful API built with **Node.js**, **Express**, and **PostgreSQL (Supabase)**
 ## ⚙️ Setup Instructions
 npm install
 
+
+## 📸 Screenshots
+
+### 1. User Registration
+![User Registration](./assets/s1.png)
+
+### 2. Event Creation
+![Event Creation](./assets/s2.png)
+
+### 3. Register for Event
+![Register for Event](./assets/s3.png)
+
+### 4. View Event Details
+![Event Details](./assets/s4.png)
+
+### 5. Cancel Registration
+![Cancel Registration](./assets/s5.png)
+
+### 6. List Upcoming Events
+![Upcoming Events](./assets/s6.png)
+
+### 7. Event Statistics
+![Event Stats](./assets/s7.png)
+
+### 8. Error Handling (Duplicate Registration)
+![Error - Duplicate](./assets/s8.png)
+
+### 9. Database in Supabase
+![Supabase View](./assets/s9.png)
+
+
 ### 1. Clone the repository
 
 ```bash
