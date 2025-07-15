@@ -1,0 +1,17 @@
+const { DataTypes } = require('sequelize');
+const sequelize = require('../config/db');
+
+const Event = sequelize.define('Events', {
+  title: { type: DataTypes.STRING, allowNull: false },
+  dateTime: { type: DataTypes.DATE, allowNull: false },
+  location: { type: DataTypes.STRING, allowNull: false },
+  capacity: {
+    type: DataTypes.INTEGER,
+    allowNull: false,
+    validate: { min: 1, max: 1000 }
+  }
+}, {
+  freezeTableName: true
+});
+
+module.exports = Event;
