@@ -50,28 +50,28 @@ npm install
 ### 1. User Registration
 ![User Registration](./assets/s1.png)
 
-### 2. Event Creation
+### 2. User Table
 ![Event Creation](./assets/s2.png)
 
-### 3. Register for Event
+### 3. Event Creation
 ![Register for Event](./assets/s3.png)
 
-### 4. View Event Details
-![Event Details](./assets/s4.png)
-
-### 5. Cancel Registration
+### 5. Event Table
 ![Cancel Registration](./assets/s5.png)
 
-### 6. List Upcoming Events
+### 4. Registration
+![Event Details](./assets/s4.png)
+
+### 6. Registration Table
 ![Upcoming Events](./assets/s6.png)
 
-### 7. Event Statistics
+### 7. Registration Deletion
 ![Event Stats](./assets/s7.png)
 
-### 8. Error Handling (Duplicate Registration)
+### 8. Upcoming List
 ![Error - Duplicate](./assets/s8.png)
 
-### 9. Database in Supabase
+### 9. Stats
 ![Supabase View](./assets/s9.png)
 
 
